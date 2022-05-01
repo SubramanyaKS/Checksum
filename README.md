@@ -1,2 +1,2 @@
 # Checksum
-Implementing Adler and Fleture CheckSum using java
+Implementing Adler and Flecther CheckSum using java
